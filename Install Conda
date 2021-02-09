@@ -1,0 +1,22 @@
+Go to temp folder:
+
+cd /tmp
+
+Then
+
+curl -O https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
+
+(You should perform the checksum of the dowloaded file)
+
+Start!
+
+bash Anaconda3-2020.11-Linux-x86_64.sh
+
+It will start installing. When asks to prepend the install location to PATH type yes!
+
+If you don't type yes you can change it at the end with this 2 lines:
+
+
+eval "$(/home/as/anaconda3/bin/conda shell.bash hook)"
+
+Conda init
