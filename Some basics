@@ -1,0 +1,9 @@
+To view the first or last few records of a dataframe, you can use the methods head and tail
+To return the first n rows use DataFrame.head([n])
+
+df.head(n)
+
+To return the last n rows use DataFrame.tail([n])
+
+df.tail(n)
+Without the argument n, these functions return 5 rows.
