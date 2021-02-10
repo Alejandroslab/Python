@@ -1,0 +1,2 @@
+conda activate my_env
+pip install investpy
