@@ -1,0 +1,22 @@
+cd /usr/bin
+
+delete the old python link
+
+sudo rm python
+
+then we can create a new python links to python
+
+sudo ln -s python3 python
+
+
+now check python
+
+with
+
+python
+
+it will be displayed
+
+python 3.7..
+
+depending on the version
