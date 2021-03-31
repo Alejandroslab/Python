@@ -1,2 +1,4 @@
 conda activate my_env
 pip install investpy
+
+a very useful tool to get data from investing.com
