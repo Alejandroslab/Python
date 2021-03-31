@@ -1,3 +1,28 @@
+create a python test file:
 touch test.py
+
+activate your favorite conda environment:
 conda activate my_env
+
+you will see that the terminal line will start with:
+
+(my_env)....
+
+this means that the environment is correctly loaded
+
+you can still use bash commands by the way and at the same time
+use python inside the environment
+
+run your script:
 python test.py
+
+
+to create an environment in conda:
+
+conda create --name my_env python=3
+
+use
+
+conda deactivate my_env
+
+to deactive the current environment
