@@ -1,0 +1,9 @@
+Python has particular operator precendeces (see manual)
+
+in order to get order just use parenthesis
+
+
+
+2 + (3 * 4) is easier than
+2 + 3 * 4
+which requires knowledge of the operator precedences.
