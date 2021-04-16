@@ -1,0 +1,17 @@
+'ab'*3
+returns the string 'ab' 3 times
+
+13 // 3
+divide and floor
+this will result = 4
+it rounds the answer down to the nearest integer value
+
+shortcut for math operation:
+
+a = 2
+a = a * 3
+
+can be written as:
+
+a = 2
+a *= 3
