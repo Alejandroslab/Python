@@ -1,0 +1,4 @@
+We can use some functions to manipulate strings
+'Paul'.upper() will give us:
+
+'PAUL'

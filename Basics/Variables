@@ -1,0 +1,26 @@
+This is a variable:
+
+myage = 0
+
+The variable is variable therrfore ou can modify this data
+
+EVERY TIME you declare a new variable you have to give an initial value.
+
+define multiple variable:
+
+myage, myname = 20, 'Paul'
+
+equivalnet to:
+
+myage = 20
+myname = 'Paul'
+
+A VARIABLE CANNOT HAVE A NUMBER AS FIRST CHARACTER
+there are also some reserverd words that you cannot use as a variable name
+
+VARIABLE NAMES ARE CASE SENSITIVE
+
+It is usually used 'camel case' that is the practice of writing compound words with mixed casing
+or it is used the underscore to separate a vairable name like:
+
+this_is_my_variable

@@ -1,0 +1,17 @@
+the statement:
+
+x = x+1
+
+ca be written as
+x += 1
+
+
+when we want to subtract:
+
+x = x - 1
+
+is equal to
+
+x -= 1
+
+This works for any mathematical operator

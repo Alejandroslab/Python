@@ -15,3 +15,9 @@ can be written as:
 
 a = 2
 a *= 3
+
+Modulo or modulus (it gives the remainder)
+ 5%2
+
+exponent
+5**2 = 25

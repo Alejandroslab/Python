@@ -4,3 +4,18 @@ single quote and double quotes can be used to create strings equally
 triple quotes can be used to define multiline strings
 
 python starts counting from zero!
+
+
+there is also 'float' for numbers
+
+text
+string
+
+myname = 'Paul'
+or
+
+myname = "Paul"
+
+we can concatenate strings:
+
+"Paul" + "Mark" = "Paul Mark"
