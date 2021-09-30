@@ -1,0 +1,10 @@
+you can use:
+
+#this is a comment
+or three single quote for multiline comments:
+
+'''
+my comment
+is this
+long
+'''
