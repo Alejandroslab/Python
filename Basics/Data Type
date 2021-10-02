@@ -18,4 +18,4 @@ myname = "Paul"
 
 we can concatenate strings:
 
-"Paul" + "Mark" = "Paul Mark"
+"Paul" + "Mark" you will get "Paul Mark"
