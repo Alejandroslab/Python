@@ -1,0 +1,7 @@
+Casting means convertin a data type to another one
+
+functions:
+
+int() converts any string or float to an integer
+float() cnverts any integer or string to a float
+str() converts an integer or a float to a string
