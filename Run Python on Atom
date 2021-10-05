@@ -2,4 +2,6 @@ You can run Atom on Python installign the package called 'script'
 
 You will find it under Packages-> Script-> Run Script
 
+The shortcut is: ctrl + shift + b
+
 now you can run your code
