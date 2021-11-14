@@ -34,7 +34,7 @@ print(newList2 + ['d', 'e'])
 
 print(newList2*3)
 #you will get newList2 with 'a','b','c','d','e'
-#3 times 
+#3 times
 
 #Add an item without overwriting the position
 
@@ -79,3 +79,5 @@ newList3 = sorted(newList2)
 #check it:
 print(newList2)
 print(newList3)
+
+#most of these commands work also with tuples. Tuples are list that are immutbale
