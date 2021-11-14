@@ -1,4 +1,50 @@
+UPPER AND LOWER
+
 We can use some functions to manipulate strings
 'Paul'.upper() will give us:
 
 'PAUL'
+
+the same for .lower()
+
+'hi'.lower() will convert the string to lowercase
+
+
+REPLACE
+
+'hello'.replace('e','s') #will replace the 'e'character with an 's' character
+
+'hssllo'
+
+you can also add the number of occurrences
+
+'hello my name is Elmer'.replace('e','s', 2)
+
+you will get:
+'hsllo my nams is Elmer'
+
+seen that the '2' indicates that only the first 2 occurrences will be replaced
+
+
+SPLIT
+
+to use the whitespace as delimiter:
+
+'This is a string'.split()
+
+you will get :
+
+['This', 'is', 'a', 'string']
+
+you can use any delimiter you like or need
+
+STRIP
+
+will remove the leading and trailing characters
+
+' This is a string '.strip()
+if a character is not provided whitespaces will be removed if present:
+
+you will get in this case:
+
+'This is a string'
