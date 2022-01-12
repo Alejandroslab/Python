@@ -1,0 +1,1 @@
+%timeit print("Hello World")

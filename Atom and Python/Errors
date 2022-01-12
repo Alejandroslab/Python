@@ -1,0 +1,7 @@
+If you cannot import some modules you have to install them with
+
+pip
+
+e.g.:
+
+pip install numpy 
