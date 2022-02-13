@@ -1,0 +1,11 @@
+The error:
+
+ImportError: cannot import name '...' from partially initialized module '...' (most likely due to a circular import)
+
+this can also happen if you name a python file the same name as a dependency your project uses.
+
+For example:
+
+I cannot have a file named retrying.py that is using the retrying package.
+
+Assuming I had the retrying package in my project, I could not have a file called retrying.py with the below contents:
