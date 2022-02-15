@@ -1,0 +1,15 @@
+Check the python you have with
+
+python 
+
+If you have installed python 3.x version then you will have to run:
+
+python3
+
+this is valid also for pip that for python 3.x version will assume the form of:
+
+pip3
+
+Whenever you want to launch a script with python 3.x version you will need always to type:
+
+python3 myscript.py
