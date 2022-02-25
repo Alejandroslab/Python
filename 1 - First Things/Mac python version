@@ -1,0 +1,12 @@
+In Mac for legacy reasons python 2.x is installed alongside python 3.x
+
+It is recommended to use python 3 for new code stuff as also syntax has changed
+
+to manage this difference in the command line just run :
+
+'python3' to run python
+
+instead of 'python' 
+
+
+To manage packages use also 'pip3' instead of 'pip'
