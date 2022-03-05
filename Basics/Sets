@@ -1,0 +1,7 @@
+You can use sets to remove duplicates in a list:
+
+list1 = list(set(list1))
+
+Set allow faster times when performing operations
+
+this is useful with very long lists 

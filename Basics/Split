@@ -1,0 +1,8 @@
+"www.debian.org".split(".")
+
+will get you this:
+
+['wwww', 'debian', 'org']
+
+
+You can use split and join to clean data 

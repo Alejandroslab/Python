@@ -1,0 +1,8 @@
+file = open(name, mode="r")
+
+f.close()
+
+
+Anyways it is better "with"
+
+with open(name,mode="r") as file:
