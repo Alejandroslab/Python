@@ -1,0 +1,15 @@
+to see all outdated packages:
+
+pip list --outdated
+
+to update:
+
+pip freeze > requirements.txt
+
+Edit requirements.txt, and replace all ‘==’ with ‘>=’. Use the ‘Replace All’ command in the editor.
+Upgrade all outdated packages: 
+
+pip install -r requirements.txt --upgrade
+
+
+You can of curse use 'pip3' instead of pip if you need so 
