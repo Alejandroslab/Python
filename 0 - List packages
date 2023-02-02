@@ -1,0 +1,11 @@
+pip list 
+
+or
+
+pip3 list 
+
+
+
+to search a packages just use grep
+
+pip3 list | grep mypackage
